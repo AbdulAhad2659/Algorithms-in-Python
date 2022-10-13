@@ -17,7 +17,7 @@
  4.2: Insertion
  4.3: Deletion
  
- 5. Divide and Conquer Algorithm
+ 5: Divide and Conquer Algorithm
  5.1: Merge Sort
  
  6: Greedy Algorithms
