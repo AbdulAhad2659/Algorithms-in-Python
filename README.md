@@ -3,44 +3,54 @@
  
  1: Recursion
  
+    Factorial
+    
+    Permutations
+ 
+ *************************************************************************************************
  
  2: Searching Algorithms
  
- 2.1: Linear Search
+    Linear Search
  
- 2.2: Iterative Binary Search
+    Iterative Binary Search
  
- 2.3: Recursive Binary Search
+    Recursive Binary Search
  
+ *************************************************************************************************
  
  3: Basic Sorting Algorithms
  
- 3.1: Bubble Sort
+    Bubble Sort
  
- 3.2: Insertion Sort
+    Insertion Sort
  
+ *************************************************************************************************
  
  4: Linked List
  
- 4.1: Traversal
+    Traversal
  
- 4.2: Insertion
+    Insertion
  
- 4.3: Deletion
+    Deletion
  
+ *************************************************************************************************
  
  5: Divide and Conquer Algorithm
  
- 5.1: Merge Sort
+    Merge Sort
  
+ *************************************************************************************************
  
  6: Greedy Algorithms
  
- 6.1: Minimum Absolute Difference
+    Minimum Absolute Difference
  
- 6.2: Fractional Knapsack
+    Fractional Knapsack
  
+ *************************************************************************************************
  
  7: Dynamic Programming
  
- 7.1: Ugly Numbers
+    Ugly Numbers
